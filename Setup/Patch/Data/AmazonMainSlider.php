@@ -1,5 +1,5 @@
 <?php
-namespace repoback\PageBuilderBlockTheme\Setup\Patch\Data;
+namespace Bootcamp\PageBuilderBlockTheme\Setup\Patch\Data;
 
 use Magento\Cms\Api\GetBlockByIdentifierInterface;
 use Magento\Cms\Model\BlockRepository;

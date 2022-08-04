@@ -1,5 +1,5 @@
 <?php
-namespace repoback\PageBuilderBlockTheme\Setup\Patch\Data;
+namespace Bootcamp\PageBuilderBlockTheme\Setup\Patch\Data;
 
 class AmazonTheme9 implements \Magento\Framework\Setup\Patch\DataPatchInterface
 {
